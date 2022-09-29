@@ -1,0 +1,19 @@
+.form {
+  width: 40%;
+  height: 50%;
+  background-color: rgb(194, 152, 233);
+  margin-top: 50px;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  color: rgb(35, 35, 35);
+  font-weight: 600;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
